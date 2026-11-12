@@ -407,7 +407,6 @@ endif()
 #add_subdirectory(external/mDNSResponder)
 #add_subdirectory(external/OpenAL)
 #add_subdirectory(VideoDecodeAcceleration)
-#add_subdirectory(external/glut)
 
 # not a core component, but we always add it regardless of the components that are enabled;
 # it has its own component checks to determine which libraries to generate wrappers for.
