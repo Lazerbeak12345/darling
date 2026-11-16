@@ -44,6 +44,7 @@ The code of Darling is licensed under [GNU GPL 3.0](https://github.com/NoAiDarli
 
 > [!CAUTION]
 > For the AUR package do not install the AUR package alongside a from-source install
+
 AUR: https://aur.archlinux.org/pkgbase/noaidarling-git
 
 Official packages for some distributions are available under [releases](https://github.com/darlinghq/darling/releases).
