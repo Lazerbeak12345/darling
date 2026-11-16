@@ -41,9 +41,10 @@ an AppKit implementation and an initial Metal backend powered by Vulkan translat
 The code of Darling is licensed under [GNU GPL 3.0](https://github.com/NoAiDarling/NoAiDarling/blob/master/LICENSE). Individual submodules may be licensed differently, as indicated within each of them.
 
 ## Install
-AUR: https://aur.archlinux.org/pkgbase/noaidarling-git
 
-NOTE: For the AUR package do not install it alongside a from-source install
+> [!CAUTION]
+> For the AUR package do not install the AUR package alongside a from-source install
+AUR: https://aur.archlinux.org/pkgbase/noaidarling-git
 
 Official packages for some distributions are available under [releases](https://github.com/darlinghq/darling/releases).
 
