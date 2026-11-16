@@ -7,20 +7,16 @@
 ---
 
 <p align=center>
-  <a href="https://github.com/darlinghq/darling/releases/latest">
+  <a href="https://github.com/NoAiDarling/NoAiDarling/releases/latest">
     <img alt="Darling Latest Release" src="https://img.shields.io/badge/latest-release-0688CB.svg">
   </a>
-  <a href="https://github.com/darlinghq/darling/blob/master/LICENSE">
+  <a href="https://github.com/NoAiDarling/NoAiDarling/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-GNU_GPL_3.0-E44E4A.svg">
-  </a>
-  <a href="https://opencollective.com/darlinghq">
-    <img alt="Donate" src="https://img.shields.io/badge/%24-donate-FF813F.svg">
-  </a>
 </p>
 
 ## Quick links
 
-[Website](https://darlinghq.org/) &bull;
+[Website](https://noaidarling.hamishmb.com) &bull;
 [Community Discord](https://discord.gg/C7YnZpezjg) &bull;
 [Bug Tracker](https://github.com/darlingtester2/NoAiDarling/issues)
 
@@ -42,9 +38,10 @@ Higher-level frameworks are being actively reimplemented, with many CLI tools
 already functional. GUI application support is in active development, backed by 
 an AppKit implementation and an initial Metal backend powered by Vulkan translation.
 
-The code of Darling is licensed under [GNU GPL 3.0](https://github.com/darlinghq/darling/blob/master/LICENSE). Individual submodules may be licensed differently, as indicated within each of them.
+The code of Darling is licensed under [GNU GPL 3.0](https://github.com/NoAiDarling/NoAiDarling/blob/master/LICENSE). Individual submodules may be licensed differently, as indicated within each of them.
 
 ## Install
+AUR: https://aur.archlinux.org/pkgbase/noaidarling-git
 
 Official packages for some distributions are available under [releases](https://github.com/darlinghq/darling/releases).
 
@@ -54,11 +51,11 @@ Official packages for some distributions are available under [releases](https://
 > **These packages are neither maintained nor vetted by the Darling team.**\
 > Use them at your own risk.
 
-For a list of community packages, see the [Community Packages](https://docs.darlinghq.org/community/packages.html) section in the Darling documentation.
+For a list of community packages, see the [Community Packages](https://docs.noaidarling.hamishmb.com/community/packages) section in the Darling documentation.
 
 ## Build Instructions
 
-For build instructions, visit [Darling Docs](https://docs.darlinghq.org/build-instructions.html).
+For build instructions, visit the [NoAiDarling Docs](https://docs.noaidarling.hamishmb.com/using-noaidarling/build-instructions/).
 
 ## Usage
 
